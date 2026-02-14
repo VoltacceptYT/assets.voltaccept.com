@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ixr:item/music_disc_m0t1vat10n_t3mp"
+    }
+}
