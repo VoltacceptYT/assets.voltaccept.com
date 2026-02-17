@@ -30,7 +30,7 @@
         },
         {
             "type": "bitmap",
-            "file": "ixr:ranks/helper.png",
+            "file": "ixr:ranks/hosting.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
